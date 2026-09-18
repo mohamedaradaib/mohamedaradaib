@@ -1,5 +1,9 @@
-## Hi, Im Mohamed 👋
+## Hi, I'm Mohamed Aradaib👋
 ### Quality Assurance Automation Engineer, passionate about Software development.
+📍 Des Moines Metropolitan Area, Iowa
+
+💼Resume 👔[LinkedIn](https://www.linkedin.com/in/mohamedaradaib) 📧Email: mohamedaradaib1@gmail.com
+
 <!--
 **mohamedaradaib/mohamedaradaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+

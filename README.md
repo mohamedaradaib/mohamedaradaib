@@ -4,7 +4,7 @@
 
 💼[Resume]() 👔[LinkedIn](https://www.linkedin.com/in/mohamedaradaib) 📧 mohamedaradaib1@gmail.com
 
-## Technical Stack
+## 💻Technical Stack
 Languages: Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
 
 Frameworks: Node.js, Express.js, Spring Boot, FastAPI, LLamaIndex, StreamLit
@@ -15,7 +15,7 @@ Databases: PostgreSQL, MySQL, Qdrant
 
 Developer Tools: Git, GitHub, Docker, Postman
 
-## Featured Projects
+## 🚀Featured Projects
 ### [AI RAG Agent](https://github.com/mohamedaradaib/AI-RAG-Agent)
 
 ### [Bank](https://github.com/mohamedaradaib/Bank)

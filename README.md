@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, Im Mohamed 👋
+### Quality Assurance Automation Engineer, passionate about Software development.
 <!--
 **mohamedaradaib/mohamedaradaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

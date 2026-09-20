@@ -4,7 +4,7 @@
 
 💼 [Resume](resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 
-## About Me
+## 🧑‍💻 About Me
 Computer Science graduate from Iowa State University aspiring to become a Software Engineer. Passionate about building scalable, reliable, and user-focused applications that solve real-world problems. Always learning, improving, and exploring new technologies to create impactful software solutions.
 
 ## 💻 Technical Stack
@@ -29,7 +29,7 @@ A bank application focused on secure transactions, account management, and user-
 A real-time collaborative editing application designed for multi-user document collaboration and seamless team workflows.
 
 ## 🤝 Let’s connect
-I’m open to collaboration, feel free to reach out through my LinkedIn or email.
+I’m open to collaboration and new opportunities, feel free to reach out to me.
 
 <!--
 **mohamedaradaib/mohamedaradaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

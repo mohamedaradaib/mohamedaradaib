@@ -2,10 +2,10 @@
 ### Quality Assurance Automation Engineer, passionate about Software Engineering
 📍 Des Moines Metropolitan Area, Iowa
 
-💼 [Resume](resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
+💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 
 ## 🧑‍💻 About Me
-Computer Science graduate from Iowa State University aspiring to become a Software Engineer. Passionate about building scalable, reliable, and user-focused applications that solve real-world problems. Always learning, improving, and exploring new technologies to create impactful software solutions.
+Computer Science graduate from Iowa State University pursuing a career in software engineering. Passionate about designing, building, testing, and improving reliable software while continously exploring new ideas and technologies.
 
 ## 💻 Technical Stack
 Languages: Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
@@ -26,7 +26,7 @@ AI-powered retrieval and chat workflow built to provide contextual answers from 
 A bank application focused on secure transactions, account management, and user-centered financial workflows.
 
 ### [Collaborative Editor](https://github.com/mohamedaradaib/Collaborative-Editor)
-A real-time collaborative editing application designed for multi-user document collaboration and seamless team workflows.
+A real-time collaborative coding application designed for multi-user collaboration and seamless team workflows.
 
 ## 🤝 Let’s connect
 I’m open to collaboration and new opportunities, feel free to reach out to me.

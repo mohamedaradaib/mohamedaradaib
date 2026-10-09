@@ -1,35 +1,35 @@
-## Hi, I'm Mohamed Aradaib 👋
-### Quality Assurance Automation Engineer, passionate about Software Engineering
+## Hi, I'm Mohamed Aradaib
+### Quality Assurance Automation Engineer | Pursuing Software Engineering
 📍 Des Moines Metropolitan Area, Iowa
 
 💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 
 ## 🧑‍💻 About Me
-Computer Science graduate from Iowa State University pursuing a career in software engineering. Passionate about designing, building, testing, and improving reliable software while continously exploring new ideas and technologies.
+I have a Bachelor of Science in Computer Science degree from Iowa State University and currently work as a Quality Assurance Automation Engineer while pursuing a career in software engineering. My projects span full-stack, from creating intuitive user interfaces to developing reliable backend services and integrating data. I enjoy building software, learning new technologies, and growing as an engineer.
 
-## 💻 Technical Stack
+## 💻 Tech Stack
 Languages: Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
 
 Frameworks: Node.js, Express.js, Spring Boot, FastAPI, LlamaIndex, Streamlit
 
-Libraries: React, Playwright, Selenium, Bootstrap, Thymeleaf
+Libraries: React, Bootstrap, Thymeleaf
 
 Databases: PostgreSQL, MySQL, Qdrant
 
 Developer Tools: Git, GitHub, Docker, Postman
 
 ## 🚀 Featured Projects
-### [AI RAG Agent](https://github.com/mohamedaradaib/AI-RAG-Agent)
+### [RAG Document Assistant](https://github.com/mohamedaradaib/RAG-Document-Assistant.git)
 AI-powered retrieval and chat workflow built to provide contextual answers from documents using retrieval-augmented generation.
 
-### [Bank](https://github.com/mohamedaradaib/Bank)
+### [LedgerBank](https://github.com/mohamedaradaib/LedgerBank.git)
 A bank application focused on secure transactions, account management, and user-centered financial workflows.
 
-### [Collaborative Editor](https://github.com/mohamedaradaib/Collaborative-Editor)
+### [Collaborative IDE](https://github.com/mohamedaradaib/Collaborative-IDE.git)
 A real-time collaborative coding application designed for multi-user collaboration and seamless team workflows.
 
 ## 🤝 Let’s connect
-I’m open to collaboration and new opportunities, feel free to reach out to me.
+I’m open to collaboration, feel free to reach out to me.
 
 <!--
 **mohamedaradaib/mohamedaradaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

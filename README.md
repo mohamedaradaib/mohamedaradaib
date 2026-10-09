@@ -1,6 +1,5 @@
 ## Hi, I'm Mohamed Aradaib
 ### Quality Assurance Automation Engineer | Pursuing Software Engineering
-📍 Des Moines Metropolitan Area, Iowa
 
 💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 

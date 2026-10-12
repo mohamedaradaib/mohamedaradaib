@@ -3,10 +3,10 @@
 
 💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professional Summary
 I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects span full-stack, from creating intuitive user interfaces to developing reliable backend services and integrating data. I enjoy building software, learning new technologies, and growing as a professional.
 
-## 💻 Tech Stack
+## 💻 Technical Stack
 Languages: Python, Java, JavaScript, HTML, CSS, SQL
 
 Frameworks: Node.js, Express.js, Spring Boot, FastAPI, LlamaIndex, Streamlit
@@ -28,7 +28,7 @@ A bank application focused on secure transactions, account management, and user-
 A real-time collaborative coding application designed for multi-user collaboration and seamless team workflows.
 
 ## 🤝 Let’s connect
-I’m open to collaboration, feel free to reach out to me.
+I’m open to Software Engineering oppourtinies. Feel free to connect via LinkedIn or email.
 
 <!--
 **mohamedaradaib/mohamedaradaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

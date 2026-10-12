@@ -1,10 +1,10 @@
 ## Hi, I'm Mohamed Aradaib
-### Quality Assurance Engineer | Pursuing Software Engineering
+### Quality Assurance Engineer | Seeking position as a Software Engineer
 
 💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 
 ## 🧑‍💻 About Me
-I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a career in Software Engineering. My projects span full-stack, from creating intuitive user interfaces to developing reliable backend services and integrating data. I enjoy building software, learning new technologies, and growing as an engineer.
+I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects span full-stack, from creating intuitive user interfaces to developing reliable backend services and integrating data. I enjoy building software, learning new technologies, and growing as a professional.
 
 ## 💻 Tech Stack
 Languages: Python, Java, JavaScript, HTML, CSS, SQL

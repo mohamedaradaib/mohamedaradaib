@@ -1,12 +1,12 @@
 ## Hi, I'm Mohamed Aradaib 
 ### Quality Assurance Engineer | Seeking position as a Software Engineer
 
-💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
+ [Resume](Mohamed_Aradaib_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • [Email](mailto:mohamedaradaib1@gmail.com)
 
-## 🧑‍💻 Summary
+## Summary
 I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects are full-stack applications, spanning frontend interfaces, backend services, and database integration. I enjoy building software, learning new technologies, and growing as a professional.
 
-## 💻 Tech Stack
+## Tech Stack
 Languages: Python, Java, JavaScript, HTML, CSS, SQL
 
 Frameworks: Node.js, Express.js, Spring Boot, FastAPI, LlamaIndex, Streamlit
@@ -17,7 +17,7 @@ Databases: PostgreSQL, MySQL, SQLite, Qdrant
 
 Developer Tools: Git, GitHub, Docker, Postman
 
-## 🚀 Featured Projects
+## Featured Projects
 ### [RAG Document Assistant](https://github.com/mohamedaradaib/RAG-Document-Assistant.git)
 AI-powered retrieval and chat workflow built to provide contextual answers from documents using retrieval-augmented generation.
 
@@ -27,7 +27,7 @@ A bank application focused on secure transactions, account management, and user-
 ### [Collaborative IDE](https://github.com/mohamedaradaib/Collaborative-IDE.git)
 A real-time collaborative coding application designed for multi-user collaboration and seamless team workflows.
 
-## 🤝 Let’s connect
+## Let’s connect
 I’m open to Software Engineering opportunities. Feel free to reach out to me.
 
 <!--

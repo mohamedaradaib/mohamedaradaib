@@ -7,7 +7,7 @@
 I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects include full-stack applications, spanning frontend interfaces, backend services, and database integration. I enjoy building software, learning new technologies, and growing as a professional.
 
 ## 💻 Technical Stack
-Languages: Python, Java, JavaScript, HTML, CSS, SQL 
+Languages: Python, Java, JavaScript, HTML, CSS, SQL
 
 Frameworks: Node.js, Express.js, Spring Boot, FastAPI, LlamaIndex, Streamlit
 

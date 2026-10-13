@@ -4,7 +4,7 @@
 💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com
 
 ## 🧑‍💻 Professional Summary
-I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects include full-stack applications, spanning frontend development, backend services, and database integration. I enjoy building software, learning new technologies, and growing as a professional.
+I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects include full-stack applications, spanning frontend interfaces, backend services, and database integration. I enjoy building software, learning new technologies, and growing as a professional.
 
 ## 💻 Technical Stack
 Languages: Python, Java, JavaScript, HTML, CSS, SQL

@@ -1,4 +1,4 @@
-## Hi, I'm Mohamed Aradaib 
+## Hi, I'm Mohamed Aradaib
 ### Quality Assurance Engineer | Pursuing Software Engineer position
 
 ## Summary

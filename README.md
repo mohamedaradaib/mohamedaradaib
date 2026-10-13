@@ -1,4 +1,4 @@
-## Hi, I'm Mohamed Aradaib
+## Hi, I'm Mohamed Aradaib 
 ### Quality Assurance Engineer | Seeking position as a Software Engineer
 
 💼 [Resume](Mohamed_Aradaib_Resume.pdf) • 👔 [LinkedIn](https://www.linkedin.com/in/mohamedaradaib) • 📧 mohamedaradaib1@gmail.com

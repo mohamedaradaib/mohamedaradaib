@@ -1,5 +1,5 @@
 ## Hi, I'm Mohamed Aradaib
-### Quality Assurance Engineer | Pursuing Software Engineer position
+### Quality Assurance Engineer | Seeking Software Engineering position
 
 ## Summary
 I have a Bachelor of Science in Computer Science degree from Iowa State University and work as Quality Assurance Automation Engineer and I'm interested in pursuing a position as a Software Engineer. My projects are full-stack applications, spanning frontend interfaces, backend services, and database integration. I enjoy building software, learning new technologies, and growing as a professional.
@@ -23,7 +23,7 @@ AI-powered retrieval and chat workflow built to provide contextual answers from 
 A bank application focused on secure transactions, account management, and user-centered financial workflows.
 
 ### [Collaborative Editor](https://github.com/mohamedaradaib/Collaborative-Editor.git)
-A real-time collaborative editor application designed for multi-user collaboration and seamless team workflows.
+A real-time collaborative editor designed for multi-user collaboration and seamless team workflows.
 
 ## Let’s connect
 I’m open to Software Engineering opportunities. Feel free to reach out to me.

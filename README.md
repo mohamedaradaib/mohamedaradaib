@@ -22,8 +22,8 @@ AI-powered retrieval and chat workflow built to provide contextual answers from 
 ### [LedgerBank](https://github.com/mohamedaradaib/LedgerBank.git)
 A bank application focused on secure transactions, account management, and user-centered financial workflows.
 
-### [Collaborative Editor](https://github.com/mohamedaradaib/Collaborative-Editor.git)
-A real-time collaborative editor designed for multi-user collaboration and seamless team workflows.
+### [Collaborative Platform](https://github.com/mohamedaradaib/Collaborative-Platform.git)
+A real-time collaborative platform designed for multi-user collaboration and seamless team workflows.
 
 ## Let’s connect
 I’m open to Software Engineering opportunities. Feel free to reach out to me.

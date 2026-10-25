@@ -1,7 +1,7 @@
 ## Hi, I'm Mohamed Aradaib
 ### Quality Assurance Engineer
 
-## About
+## About Me
 I have a Bachelor of Science in Computer Science from Iowa State University and I'm currently working as a Quality Assurance Automation Engineer and have hands-on experience building full-stack applications. I’m seeking a software engineering position where I can apply my background and continue to grow as a professional.
 
 ## Tech Stack
@@ -15,7 +15,7 @@ Databases: PostgreSQL, MySQL, SQLite, Qdrant
 
 Developer Tools: Git, GitHub, Docker, Postman
 
-## Featured Projects
+## Projects
 ### [RAG System](https://github.com/mohamedaradaib/RAG-System.git)
 AI-powered retrieval and chat workflow built to provide contextual answers from data using retrieval-augmented generation.
 

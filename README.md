@@ -2,7 +2,7 @@
 ### Quality Assurance Engineer
 
 ## About Me
-I have a Bachelor of Science in Computer Science from Iowa State University and I'm currently working as a Quality Assurance Automation Engineer and have hands-on experience building full-stack applications. I’m seeking a postion as a software engineer where I can apply my background and continue to grow as a professional.
+Computer Science Graduate from Iowa State University currently working as a Quality Assurance Automation Engineer and have hands-on experience building full-stack applications. I’m seeking a postion as a software engineer where I can apply my background and continue to grow as a professional.
 
 ## Tech Stack
 Languages: Python, Java, JavaScript, HTML, CSS, SQL
